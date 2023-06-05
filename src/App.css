@@ -1,0 +1,18 @@
+.container {
+    background-color: burlywood;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 1rem;   
+}
+
+.wrap {
+    background-color: chartreuse;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 1rem; 
+}
+
+.box {
+   height: 100px;
+   width: 300px;
+}
